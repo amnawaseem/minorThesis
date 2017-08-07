@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: DiplomarbeitLaTex.aux
+A level-1 auxiliary file: ./misc/titlepage.aux
+A level-1 auxiliary file: ./misc/abstract.aux
+The style file: ieeetr.bst
+Database file #1: ./bib/references.bib
+Warning--entry type for "fastcompany" isn't style-file defined
+--line 1 of file ./bib/references.bib
+Warning--entry type for "rfcsip" isn't style-file defined
+--line 841 of file ./bib/references.bib
+Warning--can't use both author and editor fields in economical_growth
+Warning--empty year in comparative_studies
+Warning--empty chapter and pages in whose_child
+You've used 25 entries,
+            1876 wiz_defined-function locations,
+            621 strings with 7616 characters,
+and the built_in function-call counts, 5911 in all, are:
+= -- 628
+> -- 188
+< -- 0
++ -- 75
+- -- 50
+* -- 302
+:= -- 738
+add.period$ -- 35
+call.type$ -- 25
+change.case$ -- 20
+chr.to.int$ -- 0
+cite$ -- 28
+duplicate$ -- 345
+empty$ -- 570
+format.name$ -- 50
+if$ -- 1545
+int.to.chr$ -- 0
+int.to.str$ -- 25
+missing$ -- 21
+newline$ -- 93
+num.names$ -- 20
+pop$ -- 124
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 304
+stack$ -- 0
+substring$ -- 237
+swap$ -- 183
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 3
+while$ -- 37
+width$ -- 27
+write$ -- 237
+(There were 5 warnings)
