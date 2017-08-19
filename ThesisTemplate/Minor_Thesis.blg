@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Minor_Thesis.aux
+A level-1 auxiliary file: ./misc/titlepage.aux
+A level-1 auxiliary file: ./misc/abstract.aux
+The style file: ieeetr.bst
+Database file #1: ./bib/references.bib
+Warning--entry type for "fastcompany" isn't style-file defined
+--line 1 of file ./bib/references.bib
+Warning--can't use both author and editor fields in economical_growth
+Warning--empty year in comparative_studies
+Warning--empty chapter and pages in whose_child
+Warning--empty journal in 46
+Warning--empty year in 46
+Warning--empty publisher in 49
+You've used 57 entries,
+            1876 wiz_defined-function locations,
+            760 strings with 11790 characters,
+and the built_in function-call counts, 13968 in all, are:
+= -- 1520
+> -- 376
+< -- 1
++ -- 154
+- -- 97
+* -- 793
+:= -- 1764
+add.period$ -- 68
+call.type$ -- 57
+change.case$ -- 49
+chr.to.int$ -- 0
+cite$ -- 63
+duplicate$ -- 780
+empty$ -- 1376
+format.name$ -- 97
+if$ -- 3594
+int.to.chr$ -- 0
+int.to.str$ -- 57
+missing$ -- 47
+newline$ -- 198
+num.names$ -- 46
+pop$ -- 241
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 646
+stack$ -- 0
+substring$ -- 830
+swap$ -- 384
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 6
+while$ -- 120
+width$ -- 59
+write$ -- 543
+(There were 7 warnings)
